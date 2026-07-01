@@ -1,0 +1,380 @@
+canonical_identifier: bkk:krp/KR6r0133/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0133/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 古清涼傳
+  identifiers:
+    krp: KR6r0133
+    cbeta: T51n2098
+    cbeta_old_id: T51n2098
+    authorityid: CA0002595
+    json_key: T2098
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2098.xml
+    old_id: T51n2098
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0133_000-T.yaml, hash: 'sha256:bb947f048da36e5c163c79197e56b83e93c59fceb29e8e4c504960173a99d644'}
+  - {seq: 1, filename: KR6r0133_001-T.yaml, hash: 'sha256:934dbff8ac01b48fbab1a81dd0888a12bf24d014876cc342403279a2e6264f50'}
+  - {seq: 2, filename: KR6r0133_002-T.yaml, hash: 'sha256:fa071eaddaec92e0fe7900dc5bff35bde798caf9b3d0bcca19a5ba67c41a7e07'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0133_000-T.markers.yaml, hash: 'sha256:a358acd9478fcab2513cb58c644287aedf1dc42f9c9c010d65ab9d3bea0f3b07'}
+  - {seq: 1, role: markers, filename: assets/KR6r0133_001-T.markers.yaml, hash: 'sha256:74a7b472893a378f27823714e3585813c1784eaeb4cf06cf9a525bb15f0a599b'}
+  - {seq: 2, role: markers, filename: assets/KR6r0133_002-T.markers.yaml, hash: 'sha256:af37f0886090d09f50d064074f49b2c981abba0da023e2749a7c1aeaac114d05'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0133_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 古清涼傳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4973
+  label: 古清涼傳卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 1 立名標化
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-2
+    span:
+    - body
+    - 748
+    - 748
+  label: 2 封域里數
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-3
+    span:
+    - body
+    - 753
+    - 753
+  label: 山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-4
+    span:
+    - body
+    - 883
+    - 883
+  label: 中臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-5
+    span:
+    - body
+    - 1042
+    - 1042
+  label: 東臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-6
+    span:
+    - body
+    - 1190
+    - 1190
+  label: 西臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-7
+    span:
+    - body
+    - 1230
+    - 1230
+  label: 南臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-8
+    span:
+    - body
+    - 1290
+    - 1290
+  label: 北臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-9
+    span:
+    - body
+    - 1414
+    - 1414
+  label: 3 古今勝跡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-10
+    span:
+    - body
+    - 1419
+    - 1419
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-11
+    span:
+    - body
+    - 1626
+    - 1626
+  label: 中臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-12
+    span:
+    - body
+    - 3618
+    - 3618
+  label: 東臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-13
+    span:
+    - body
+    - 3836
+    - 3836
+  label: 西臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0133_T_001-mulu-14
+    span:
+    - body
+    - 4004
+    - 4004
+  label: 南臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6161
+  label: 古清涼傳卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 4 遊禮感通
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-2
+    span:
+    - body
+    - 24
+    - 24
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-3
+    span:
+    - body
+    - 681
+    - 681
+  label: 周沙門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-4
+    span:
+    - body
+    - 1020
+    - 1020
+  label: 隋并州人高守節
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-5
+    span:
+    - body
+    - 1542
+    - 1542
+  label: 釋普明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-6
+    span:
+    - body
+    - 2097
+    - 2097
+  label: 唐沙門釋曇韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-7
+    span:
+    - body
+    - 2274
+    - 2274
+  label: 釋昭隱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-8
+    span:
+    - body
+    - 2419
+    - 2419
+  label: 釋明曜
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-9
+    span:
+    - body
+    - 2623
+    - 2623
+  label: 代州有信士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-10
+    span:
+    - body
+    - 2807
+    - 2807
+  label: 頻勅西京會昌寺沙門會𦣱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-11
+    span:
+    - body
+    - 3214
+    - 3214
+  label: 西域梵僧釋迦蜜多羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-12
+    span:
+    - body
+    - 4610
+    - 4610
+  label: 荊州覆舟山玉泉寺沙門弘景
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-13
+    span:
+    - body
+    - 4950
+    - 4950
+  label: 洛陽白馬寺沙門惠藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-14
+    span:
+    - body
+    - 5290
+    - 5290
+  label: 5 支流雜述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-15
+    span:
+    - body
+    - 5295
+    - 5295
+  label: 恒州刺史呼延慶
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-16
+    span:
+    - body
+    - 5481
+    - 5481
+  label: 齊隱士王
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-17
+    span:
+    - body
+    - 5650
+    - 5650
+  label: 代州郭下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0133_T_002-mulu-18
+    span:
+    - body
+    - 5890
+    - 5890
+  label: 繁峙縣王相兒
+  type: mulu
+  level: 1
+hash: sha256:92891ad71c0c33653ac5aa1c151222ef48a74c7b24bf58aed1dcae8ba097141e
