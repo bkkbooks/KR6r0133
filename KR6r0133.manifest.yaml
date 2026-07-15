@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0133/v1
 canonical_location: https://kanripo.org/bkk/KR6r0133/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 古清涼傳
   identifiers:
@@ -24,13 +24,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0133_000.yaml, hash: 'sha256:bb947f048da36e5c163c79197e56b83e93c59fceb29e8e4c504960173a99d644'}
-  - {seq: 1, filename: KR6r0133_001.yaml, hash: 'sha256:934dbff8ac01b48fbab1a81dd0888a12bf24d014876cc342403279a2e6264f50'}
-  - {seq: 2, filename: KR6r0133_002.yaml, hash: 'sha256:fa071eaddaec92e0fe7900dc5bff35bde798caf9b3d0bcca19a5ba67c41a7e07'}
+  - {seq: 0, filename: KR6r0133_000.yaml, hash: 'sha256:4e160a817b77984bb4298ca0e04ab3ceddc6966a0f263c85f2a6243f4403cb98'}
+  - {seq: 1, filename: KR6r0133_001.yaml, hash: 'sha256:c65fa6322bb947fcc97afe65ccc4258a93da9a8db6ce40b940c1146c22504144'}
+  - {seq: 2, filename: KR6r0133_002.yaml, hash: 'sha256:dc3fd30d71ae027a1b5698c8860e9bdf351abcbd01cd3a15efe156ee6533e5e4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0133_000.markers.yaml, hash: 'sha256:e7b544b16ae59eb2bb9dee2fab3076afb26136e05844698fbd0de7c1697e31b8'}
-  - {seq: 1, role: markers, filename: assets/KR6r0133_001.markers.yaml, hash: 'sha256:2e70410d1960f62397ea8e628172aac2086ea1039cb452188682499a5af29ece'}
-  - {seq: 2, role: markers, filename: assets/KR6r0133_002.markers.yaml, hash: 'sha256:7784b9b6b58a88b0ed7c13cb12babecff678da6c4cd0da679cca52bef3bd1789'}
+  - {seq: 0, role: markers, filename: assets/KR6r0133_000.markers.yaml, hash: 'sha256:a8618bf325cfacac40e74919083a526968077adf648d3cc26153f415350b609e'}
+  - {seq: 1, role: markers, filename: assets/KR6r0133_001.markers.yaml, hash: 'sha256:503cb24fc5f80a89223e0eeb365e754747b6b59a5ee7283d58a53bd44a845d6a'}
+  - {seq: 2, role: markers, filename: assets/KR6r0133_002.markers.yaml, hash: 'sha256:d2cd83890330e38b5ae7d083ddd51107e22faa021570e67da299d1bbb264d7eb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -382,4 +382,7 @@ table_of_contents:
   label: 繁峙縣王相兒
   type: mulu
   level: 1
-hash: sha256:a2d85d1e241d1d55ff96e4bbb781adbb652188539ed206529f4eddb880eb3a5a
+hash: sha256:473be29738b77823522fa844959f23261d44f85e4cc4f260b9dc8fbeb7c1bcb4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
