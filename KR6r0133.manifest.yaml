@@ -24,11 +24,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0133_000.yaml, hash: 'sha256:4e160a817b77984bb4298ca0e04ab3ceddc6966a0f263c85f2a6243f4403cb98'}
+  - {seq: 0, filename: KR6r0133_000.yaml, hash: 'sha256:15529e61cc4cb78724251767bdb8ef71be5ed545f49bc03c5aa47f99e9e95a36'}
   - {seq: 1, filename: KR6r0133_001.yaml, hash: 'sha256:c65fa6322bb947fcc97afe65ccc4258a93da9a8db6ce40b940c1146c22504144'}
   - {seq: 2, filename: KR6r0133_002.yaml, hash: 'sha256:dc3fd30d71ae027a1b5698c8860e9bdf351abcbd01cd3a15efe156ee6533e5e4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0133_000.markers.yaml, hash: 'sha256:a8618bf325cfacac40e74919083a526968077adf648d3cc26153f415350b609e'}
+  - {seq: 0, role: markers, filename: assets/KR6r0133_000.markers.yaml, hash: 'sha256:93acfbe1cd9ed36a9edf202d2b16c83aceba642b97d8080dee8ae457b015e8a9'}
   - {seq: 1, role: markers, filename: assets/KR6r0133_001.markers.yaml, hash: 'sha256:503cb24fc5f80a89223e0eeb365e754747b6b59a5ee7283d58a53bd44a845d6a'}
   - {seq: 2, role: markers, filename: assets/KR6r0133_002.markers.yaml, hash: 'sha256:d2cd83890330e38b5ae7d083ddd51107e22faa021570e67da299d1bbb264d7eb'}
 table_of_contents:
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0133_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 古清涼傳序
@@ -382,7 +382,7 @@ table_of_contents:
   label: 繁峙縣王相兒
   type: mulu
   level: 1
-hash: sha256:473be29738b77823522fa844959f23261d44f85e4cc4f260b9dc8fbeb7c1bcb4
+hash: sha256:8370db01db22f5b66f384bde09df18a72b37f2f94ce83c96388a768c3a4ad776
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
